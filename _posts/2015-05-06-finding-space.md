@@ -3,7 +3,7 @@ layout: post
 title: Finding space
 ---
 
-People can be incredibly opinionated, on [Twitter](http://nextshark.com/nilay-patel-apple-watch-review-bracelet-tantrum/) and just in general. I say that because I'm also one of these people. It can be hard to find space to consider thoughts and ideas unless you know the sort of people willing to engage in serious discourse.
+People can be incredibly opinionated on [Twitter](http://nextshark.com/nilay-patel-apple-watch-review-bracelet-tantrum/) and just in general. I say that because I'm also one of these people. It can be hard to find space to consider thoughts and ideas unless you know the sort of people willing to engage in serious discourse.
 
 There's also the fact that I'm absolutely terrible at conveying my thoughts verbally, in emoji, or within 140 characters or less. Writing is tough but it allows me to focus on and deeply consider an idea that mightn't initially make sense to anyone else.
 

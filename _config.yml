@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            Phill Farrugia
 tagline:          'Blog'
 description:      'Takes <a href="https://500px.com/phill_farrugia" target="_blank">photos</a> writes <a href="http://twitter.com/phillfarrugia" target="_blank">words</a> and <a href="https://github.com/phillfarrugia" target="_blank">codes</a> things.'
-url:              http://hyde.getpoole.com
-baseurl:          http://phillfarrugia.github.io/hyde/
+url:              http://phillfarrugia.com
+baseurl:          /
 
 author:
   name:           'Phill Farrugia'
