@@ -67,6 +67,6 @@ Then I discovered this forum post by an Apple Engineer in the [Developer Forums]
 
 This is definitely not a permanent solution to the problem but is a perfect opportunity for me to [file a radar](https://openradar.appspot.com/radar?id=5021668984487936). If you're reading this you should do the same in the hopes this will one day be fixed.
 
-If you have any questions, or corrections feel free to [let me know](./about/).
+If you have any questions, or corrections feel free to [let me know](http://phillfarrugia.com/about/).
 
 
