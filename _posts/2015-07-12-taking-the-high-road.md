@@ -3,7 +3,9 @@ layout: post
 title: Taking the high road
 ---
 
-Being in control of a situation feels great. You get to look like the smartest guy in the room, take your pick of the witty and ironic tweets to send to all your friends and come out socially unscathed. Being on the right side of the status quo, picking the good fight and saying all the right things. It has become so incredibly easy for people in the technology industry to take sides, to agree, and support a cause simply because it is the safe thing to do. Because it looks to be the right thing to do. People assume that because everyone supports a cause it must be correct, that the powers above have already determined the right from the wrong.
+Being in control of a situation feels great. You get to look like the smartest guy in the room, take your pick of the witty and ironic tweets to send to all your friends and come out socially unscathed. Being on the right side of the status quo, picking the good fight and saying all the right things. 
+
+It has become so incredibly easy for people in the technology industry to take sides, to agree, and support a cause simply because it is the safe thing to do. Because it looks to be the right thing to do. People assume that because everyone supports a cause it must be correct, that the powers above have already determined the right from the wrong.
 
 Take any cause, or issue currently under scrutiny in today's society. Gay marriage, freedom of speech, gender equality, anything. Do you support it? Yes? Have you ever asked yourself why? Truly the questions, ethics, values, doubts and experiences that led you to that conclusion and caused you to make an informed logical and confident decision?
 
