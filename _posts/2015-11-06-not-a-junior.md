@@ -20,8 +20,6 @@ Now that it has been said, I want to make it as loud and clear as I possibly can
 
 I am not a Junior Developer.
 
-I'm capable of enough software development to be dangerous. As of last week I am no longer a student and
-this means there is no where to go but forward. 
+I'm capable of enough software development to be dangerous.
 
-I have a ridiculously long list of goals I've been delaying for about 3 years. 
-There's no longer any excuse, be scared because I intend to get them done.
+I have a ridiculously long list of goals I've been delaying for about 3 years. As of last week I am no longer a student. There's no longer any excuse, you should be scared because I intend to get them done.
