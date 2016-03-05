@@ -13,7 +13,7 @@ What’s next for me comes down to three main things:
 - Doing
 - Learning
 
-*Changing*
+###Changing
 
 I’ve been experimenting with change more recently in my life. Taking things away, moving them around and adjusting everything around me. Moving forward, I will not get comfortable. I will not fall too far into habits. I will not become complacent and will instead be forceful in only placing people around me that can push me into new directions and to learn new things. 
 
@@ -23,7 +23,7 @@ I feel that I am currently fighting with every single person in my life about my
 
 Last year I let people walk all over me and my values. I let them say things like, “you’re just a junior developer anyway, you are lucky to be on a project that size with those sorts of people”. This year, these people have no room in my life. They are capable of nothing, will achieve nothing and go nowhere.
 
-*Doing*
+###Doing
 
 Up until this point, I feel that I have not really been ‘doing’ the things I deep down want to. The things that I should do if I want to actually contribute something meaningful to the world around me. Moving forward I will do things regardless of fear, regardless of a lack of experience and most importantly regardless of what people might think, say or do. 
 
@@ -31,7 +31,7 @@ I’ve got some plans in the works, and I _will_ do each and every one of them b
 
 I just know that executing on the things that I say I will do, is the key to my being a productive member of society.
 
-*Learning*
+###Learning
 
 Of course, this one will always be on my mind. I’ve admittedly stopped learning lately, and it has been an awful, dark void that has consumed me. I hate it. I hate myself for it. 
 
