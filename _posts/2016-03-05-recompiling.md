@@ -17,8 +17,6 @@ What’s next for me comes down to three main things:
 
 I’ve been experimenting with change more recently in my life. Taking things away, moving them around and adjusting everything around me. Moving forward, I will not get comfortable. I will not fall too far into habits. I will not become complacent and will instead be forceful in only placing people around me that can push me into new directions and to learn new things. 
 
-There is no longer any room for ignorant, over-confident, under-experienced and ageist people that lack values or are driven by bullshit like money and success.
-
 I feel that I am currently fighting with every single person in my life about my values. It sucks. It is incredibly hard not to doubt yourself when every one you know tells you that you are wrong. And yet I stand by them. My values are the most important thing in my life, and are the reason why I exist. I have no intention on letting up.   
 
 Last year I let people walk all over me and my values. I let them say things like, “you’re just a junior developer anyway, you are lucky to be on a project that size with those sorts of people”. This year, these people have no room in my life. They are capable of nothing, will achieve nothing and go nowhere.
