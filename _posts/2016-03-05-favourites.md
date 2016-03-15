@@ -5,52 +5,68 @@ title: Top Posts
 
 I really enjoy writing words and publishing them on the internet. It's a brilliant way for me to formulate an idea, explore it in depth and materialise it in a physical sense before expressing my thoughts to others. I tend to write a lot for Bilue, about our company, our culture, our daily happenings and anything that seems to come to mind. This is a simple list of my favourite pieces that I'm most proud of -
 
-Try! Swift 2016
+<b>Try! Swift 2016</b>
+<br>
 https://bilue.com.au/try-swift-2016/
 
-5th Anniversary Party
+<b>5th Anniversary Party</b>
+<br>
 https://bilue.com.au/5th-anniversary-party/
 
-Meditation
+<b>Meditation</b>
+<br>
 https://bilue.com.au/meditation/
 
-The Cole Classic 2016 Swim
+<b>The Cole Classic 2016 Swim</b>
+<br>
 https://bilue.com.au/the-cole-classic-2016-swim/
 
-Yow! 2015 Conference
+<b>Yow! 2015 Conference</b>
+<br>
 https://bilue.com.au/yow-2015-conference/
 
-Driving Forward
+<b>Driving Forward</b>
+<br>
 https://bilue.com.au/driving-forward/
 
-NSCamp 2015
+<b>NSCamp 2015</b>
+<br>
 https://bilue.com.au/nscamp-2015/
 
-Speaking at DevWorld 2015
+<b>Speaking at DevWorld 2015</b>
+<br>
 https://bilue.com.au/speaking-at-devworld/
 
-A Podcast a day
+<b>A Podcast a day</b>
+<br>
 https://bilue.com.au/a-podcast-a-day/
 
-A little somethin' on the side
+<b>A little somethin' on the side</b>
+<br>
 https://bilue.com.au/a-little-somethin-on-the-side/
 
-Milestones
+<b>Milestones</b>
+<br>
 https://bilue.com.au/milestones/
 
-Initial WWDC Impressions
+<b>Initial WWDC Impressions</b>
+<br>
 https://bilue.com.au/initial-wwdc-impressions/
 
-Accessibility on Apple Watch
+<b>Accessibility on Apple Watch</b>
+<br>
 https://bilue.com.au/accessibility-on-apple-watch/
 
-What makes a watch, a watch?
+<b>What makes a watch, a watch?</b>
+<br>
 https://bilue.com.au/what-makes-a-watch-a-watch/
 
-Using the Apple Watch
+<b>Using the Apple Watch</b>
+<br>
 https://bilue.com.au/using-the-apple-watch/
 
-In an emergency, break the glass
+<b>In an emergency, break the glass</b>
+<br>
 https://bilue.com.au/in-case-of-emergency-break-the-glass/
 
 If you enjoy my writing, feel free to let me know or share them. Writing is my secret passion, and it really makes me proud to see what I've accomplished through these pieces of work.
